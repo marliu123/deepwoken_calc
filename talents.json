@@ -1,0 +1,1338 @@
+{
+    "talents": [
+        {
+            "Acrobat": [
+                {
+                    "Kick Off": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ],
+                    "Steady Footing": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ],
+                    "Graceful Landing": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ],
+                    "Time To Go": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ],
+                    "Blood Frenzy": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ]
+                }
+            ],
+            "Aerial Dancer": [
+                {
+                    "Wyvern's Claw": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ]
+                }
+            ],
+            "Aeromancy": [
+                {
+                    "Drifting Winds": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ],
+                    "Aerogliding": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ],
+                    "Stifled Jump": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ],
+                    "Suffocating Impact": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ],
+                    "Gale Coil": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ],
+                    "Aeronade": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ],
+                    "Vacuum Punch": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ]
+                }
+            ],
+            "Aeromancer": [
+                {
+                    "Gale Trap": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ]
+                }
+            ],
+            "Alchemist": [
+                {
+                    "Apothecarry": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ],
+                    "Exterminator": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ],
+                    "Subsistence": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ],
+                    "Wild Alchemy": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ],
+                    "Placebo Effect": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ]
+                }
+            ],
+            "Alley Cat": [
+                {
+                    "Scaredy Cat": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ],
+                    "Lowstride": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ],
+                    "Conditioned Runner": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ],
+                    "Endurance Runner": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ]
+                }
+            ],
+            "Amoran Seeker": [
+                {
+                    "Flame Within": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ]
+                }
+            ],
+            "Angler": [
+                {
+                    "Proficiency Baiting": [
+                        {
+                            "prerequisite": [
+                                {
+                                    "basic": [
+                                        {
+                                            "str": 0,
+                                            "ftd": 0,
+                                            "agi": 0,
+                                            "int": 0,
+                                            "wil": 0,
+                                            "cha": 0
+                                        }
+                                    ],
+                                    "weapon": [
+                                        {
+                                            "lht": 0,
+                                            "med": 0,
+                                            "hvy": 0
+                                        }
+                                    ],
+                                    "attunement": [
+                                        {
+                                            "frost": 0,
+                                            "shadow": 0,
+                                            "flame": 0,
+                                            "thunder": 0,
+                                            "gale": 0
+                                        }
+                                    ],
+                                    "exclusive": [
+                                        ""
+                                    ],
+                                    "talentreq": "",
+                                    "mantrareq": ""
+                                }
+                            ],
+                            "bonus": [
+                                {
+                                    "pAgility": 0,
+                                    "health": 0,
+                                    "sanity": 0,
+                                    "ether": 0,
+                                    "carry": 0,
+                                    "elemIntensity": 0,
+                                    "posture": 0
+                                }
+                            ],
+                            "rarity": "",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
