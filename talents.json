@@ -13243,8 +13243,9 @@
                         }
                     ]
                 }
-            ],
-            "Marauder": [
+            ]},{
+            "name":"Marauder",
+            "data": [
                 {
                     "Bloodletter": [
                         {
@@ -13507,8 +13508,9 @@
                         }
                     ]
                 }
-            ],
-            "Master Survivalist": [
+            ]},{
+            "name":"Master Survivalist",
+            "data": [
                 {
                     "Survival Kit": [
                         {
@@ -13563,8 +13565,9 @@
                         }
                     ]
                 }
-            ],
-            "Meditative Trance": [
+            ]},{
+            "name":"Meditative Trance",
+            "data": [
                 {
                     "Warrior's Respite": [
                         {
@@ -13619,8 +13622,9 @@
                         }
                     ]
                 }
-            ],
-            "Mental Fortress": [
+            ]},{
+            "name":"Mental Fortress",
+            "data": [
                 {
                     "Breathing Exercise": [
                         {
@@ -13779,8 +13783,9 @@
                         }
                     ]
                 }
-            ],
-            "Merchant": [
+            ]},{
+            "name":"Merchant",
+            "data": [
                 {
                     "Art of the Deal": [
                         {
@@ -13835,8 +13840,9 @@
                         }
                     ]
                 }
-            ],
-            "Metamancer": [
+            ]},{
+            "name":"Metamancer",
+            "data": [
                 {
                     "Health Pack": [
                         {
@@ -13995,8 +14001,9 @@
                         }
                     ]
                 }
-            ],
-            "Mr Charm": [
+            ]},{
+            "name":"Mr Charm",
+            "data": [
                 {
                     "Charisma Unbounded": [
                         {
@@ -14051,8 +14058,9 @@
                         }
                     ]
                 }
-            ],
-            "Murmur": [
+            ]},{
+            "name":"Murmur",
+            "data": [
                 {
                     "Murmur: Ardour": [
                         {
@@ -14263,8 +14271,9 @@
                         }
                     ]
                 }
-            ],
-            "Natural Armor": [
+            ]},{
+            "name":"Natural Armor",
+            "data": [
                 {
                     "Padded Armor": [
                         {
@@ -14371,8 +14380,9 @@
                         }
                     ]
                 }
-            ],
-            "Navaen Nomad": [
+            ]},{
+            "name":"Navaen Nomad",
+            "data": [
                 {
                     "Way of Navae": [
                         {
@@ -14531,8 +14541,9 @@
                         }
                     ]
                 }
-            ],
-            "Nimble Blade": [
+            ]},{
+            "name":"Nimble Blade",
+            "data": [
                 {
                     "Fast Blade": [
                         {
@@ -14639,8 +14650,9 @@
                         }
                     ]
                 }
-            ],
-            "Oath": [
+            ]},{
+            "name":"Oath",
+            "data": [
                 {
                     "Oath:Arcwarder": [
                         {
@@ -15111,8 +15123,9 @@
                         }
                     ]
                 }
-            ],
-            "Omniscient": [
+            ]},{
+            "name":"Omniscient",
+            "data": [
                 {
                     "Intelligence Unbounded": [
                         {
@@ -15271,8 +15284,9 @@
                         }
                     ]
                 }
-            ],
-            "One Eyed King": [
+            ]},{
+            "name":"One Eyed King",
+            "data": [
                 {
                     "Strength Unbounded": [
                         {
@@ -15327,8 +15341,9 @@
                         }
                     ]
                 }
-            ],
-            "Prospector": [
+            ]},{
+            "name":"Prospector",
+            "data": [
                 {
                     "Escavator": [
                         {
@@ -15435,8 +15450,9 @@
                         }
                     ]
                 }
-            ],
-            "Public Figure": [
+            ]},{
+            "name":"Public Figure",
+            "data": [
                 {
                     "Bodyguard Detail": [
                         {
@@ -15595,8 +15611,9 @@
                         }
                     ]
                 }
-            ],
-            "Puppet Master": [
+            ]},{
+            "name":"Puppet Master",
+            "data": [
                 {
                     "Twisted Puppets": [
                         {
@@ -15651,8 +15668,9 @@
                         }
                     ]
                 }
-            ],
-            "Pyromancer": [
+            ]},{
+            "name":"Pyromancer",
+            "data": [
                 {
                     "Hungry Flames": [
                         {
@@ -15707,8 +15725,9 @@
                         }
                     ]
                 }
-            ],
-            "Raging Bull": [
+            ]},{
+            "name":"Raging Bull",
+            "data": [
                 {
                     "Bulldozer": [
                         {
@@ -15919,8 +15938,9 @@
                         }
                     ]
                 }
-            ],
-            "Rampant Static": [
+            ]},{
+            "name":"Rampant Static",
+            "data": [
                 {
                     "Jolting Current": [
                         {
@@ -15975,8 +15995,9 @@
                         }
                     ]
                 }
-            ],
-            "Saboteur": [
+            ]},{
+            "name":"Saboteur",
+            "data": [
                 {
                     "Family Recipe": [
                         {
@@ -16291,8 +16312,9 @@
                         }
                     ]
                 }
-            ],
-            "Saint of Blades": [
+            ]},{
+            "name":"Saint of Blades",
+            "data": [
                 {
                     "Heavy Weapons Unbounded": [
                         {
@@ -16451,8 +16473,9 @@
                         }
                     ]
                 }
-            ],
-            "Scholar of the Cloud": [
+            ]},{
+            "name":"Scholar of the Cloud",
+            "data": [
                 {
                     "Windwaker": [
                         {
@@ -16507,8 +16530,9 @@
                         }
                     ]
                 }
-            ],
-            "Seeker of Sound": [
+            ]},{
+            "name":"Seeker of Sound",
+            "data": [
                 {
                     "Dragon's Song": [
                         {
@@ -16563,8 +16587,9 @@
                         }
                     ]
                 }
-            ],
-            "Self-Shocker": [
+            ]},{
+            "name":"Self-Shocker",
+            "data": [
                 {
                     "Jumpstart": [
                         {
@@ -16671,8 +16696,9 @@
                         }
                     ]
                 }
-            ],
-            "Silvertongue": [
+            ]},{
+            "name":"Silvertongue",
+            "data": [
                 {
                     "Friends in High Places": [
                         {
@@ -16831,8 +16857,9 @@
                         }
                     ]
                 }
-            ],
-            "Soul Converter": [
+            ]},{
+            "name":"Soul Converter",
+            "data": [
                 {
                     "Bloodiron Spirit": [
                         {
@@ -16887,8 +16914,9 @@
                         }
                     ]
                 }
-            ],
-            "Soverign of Slaughter": [
+            ]},{
+            "name":"Soverign of Slaughter",
+            "data": [
                 {
                     "Chime of Conflict": [
                         {
@@ -16943,8 +16971,9 @@
                         }
                     ]
                 }
-            ],
-            "Static Weaver": [
+            ]},{
+            "name":"Static Weaver",
+            "data": [
                 {
                     "Agitating Static": [
                         {
@@ -17311,8 +17340,10 @@
                         }
                     ]
                 }
-            ],
-            "Stormblade": [
+            ]},
+            {
+            "name":"Stormblade",
+            "data": [
                 {
                     "Stormcaller Slash": [
                         {
@@ -17367,8 +17398,10 @@
                         }
                     ]
                 }
-            ],
-            "Shadowcaster": [
+            ]},
+            {
+            "name":"Shadowcaster",
+            "data": [
                 {
                     "Black Out": [
                         {
@@ -17943,8 +17976,10 @@
                         }
                     ]
                 }
-            ],
-            "Shieldmaster": [
+            ]},
+            {
+            "name":"Shieldmaster",
+            "data": [
                 {
                     "Knight's Rally": [
                         {
@@ -18051,8 +18086,10 @@
                         }
                     ]
                 }
-            ],
-            "Shipwright": [
+            ]},
+            {
+            "name":"Shipwright",
+            "data": [
                 {
                     "Spare Nails": [
                         {
@@ -18159,7 +18196,7 @@
                         }
                     ]
                 }
-            ],
+            ]},{
             "Silencer": [
                 {
                     "A World Without Song": [
@@ -18327,7 +18364,7 @@
                         }
                     ]
                 }
-            ],
+            ]},{
             "Singer": [
                 {
                     "Encore": [
@@ -18383,7 +18420,7 @@
                         }
                     ]
                 }
-            ],
+            ]},{
             "Sturdy Resolve": [
                 {
                     "Grasp on Reality": [
@@ -18491,8 +18528,10 @@
                         }
                     ]
                 }
-            ],
-            "Survival Instinct": [
+            ]},
+            {
+            "name":"Survival Instinct",
+            "data": [
                 {
                     "Herbivore": [
                         {
@@ -18651,8 +18690,10 @@
                         }
                     ]
                 }
-            ],
-            "Survivor": [
+            ]},
+            {
+            "name":"Survivor",
+            "data": [
                 {
                     "Pack Mule": [
                         {
@@ -18707,8 +18748,10 @@
                         }
                     ]
                 }
-            ],
-            "Tactician": [
+            ]},
+            {
+            "name":"Tactician",
+            "data": [
                 {
                     "Hard Read": [
                         {
@@ -18867,8 +18910,10 @@
                         }
                     ]
                 }
-            ],
-            "Tavernkeep": [
+            ]},
+            {
+            "name":"Tavernkeep",
+            "data": [
                 {
                     "Artisan Chef": [
                         {
@@ -18975,8 +19020,10 @@
                         }
                     ]
                 }
-            ],
-            "The Demon Blade": [
+            ]},
+            {
+            "name":"The Demon Blade",
+            "data": [
                 {
                     "Explosive Finish": [
                         {
@@ -19083,8 +19130,10 @@
                         }
                     ]
                 }
-            ],
-            "The Negotiator": [
+            ]},
+            {
+            "name":"The Negotiator",
+            "data": [
                 {
                     "Last Second Negotiation": [
                         {
@@ -19139,8 +19188,10 @@
                         }
                     ]
                 }
-            ],
-            "Thief": [
+            ]},
+            {
+            "name":"Thief",
+            "data": [
                 {
                     "Pickpocket": [
                         {
@@ -19351,8 +19402,10 @@
                         }
                     ]
                 }
-            ],
-            "Thunder Brawler": [
+            ]},
+            {
+            "name":"Thunder Brawler",
+            "data": [
                 {
                     "Discharge": [
                         {
@@ -19459,8 +19512,10 @@
                         }
                     ]
                 }
-            ],
-            "Thunder Caster": [
+            ]},
+            {
+            "name":"Thunder Caster",
+            "data": [
                 {
                     "Rain of Static": [
                         {
@@ -19567,8 +19622,10 @@
                         }
                     ]
                 }
-            ],
-            "Thunderblade": [
+            ]},
+            {
+            "name":"Thunderblade",
+            "data": [
                 {
                     "Static Blade": [
                         {
@@ -19727,8 +19784,10 @@
                         }
                     ]
                 }
-            ],
-            "Thundercaller": [
+            ]},
+            {
+            "name":"Thundercaller",
+            "data": [
                 {
                     "Thundercaller": [
                         {
@@ -20355,8 +20414,10 @@
                         }
                     ]
                 }
-            ],
-            "Trickster": [
+            ]},
+            {
+            "name":"Trickster",
+            "data": [
                 {
                     "Cheap Shot": [
                         {
@@ -20411,8 +20472,10 @@
                         }
                     ]
                 }
-            ],
-            "Undying Ember": [
+            ]},
+            {
+            "name":"Undying Ember",
+            "data": [
                 {
                     "Last Laugh": [
                         {
@@ -20623,8 +20686,10 @@
                         }
                     ]
                 }
-            ],
-            "Vow of Mastery": [
+            ]},
+            {
+            "name":"Vow of Mastery",
+            "data": [
                 {
                     "Vow of Mastery": [
                         {
@@ -20991,8 +21056,10 @@
                         }
                     ]
                 }
-            ],
-            "Vigil Swordsman": [
+            ]},
+            {
+            "name":"Vigil Swordsman",
+            "data": [
                 {
                     "Blade Dancer": [
                         {
@@ -21203,8 +21270,10 @@
                         }
                     ]
                 }
-            ],
-            "Visionshaper": [
+            ]},
+            {
+            "name":"Visionshaper",
+            "data": [
                 {
                     "Cheap Trick": [
                         {
@@ -21415,8 +21484,10 @@
                         }
                     ]
                 }
-            ],
-            "Warrior": [
+            ]},
+            {
+            "name":"Warrior",
+            "data": [
                 {
                     "Chronostasis": [
                         {
@@ -21575,8 +21646,10 @@
                         }
                     ]
                 }
-            ],
-            "Waterborne": [
+            ]},
+            {
+            "name":"Waterborne",
+            "data": [
                 {
                     "Conditioned Swimmer": [
                         {
@@ -21683,8 +21756,10 @@
                         }
                     ]
                 }
-            ],
-            "Weapon Master": [
+            ]},
+            {
+            "name":"Weapon Master",
+            "data": [
                 {
                     "Matador": [
                         {
@@ -22103,8 +22178,10 @@
                         }
                     ]
                 }
-            ],
-            "Whisper": [
+            ]},
+            {
+            "name":"Whisper",
+            "data": [
                 {
                     "Haunted Gale": [
                         {
@@ -22159,8 +22236,10 @@
                         }
                     ]
                 }
-            ],
-            "Windrunner": [
+            ]},
+            {
+            "name":"Windrunner",
+            "data": [
                 {
                     "Agility Unbounded": [
                         {
@@ -22215,8 +22294,10 @@
                         }
                     ]
                 }
-            ],
-            "Miscellaneous": [
+            ]},
+            {
+            "name":"Miscellaneous", 
+            "data": [
                 {
                     "Armor Conserver": [
                         {
